@@ -1,4 +1,4 @@
-hanyszor=5
+hanyszor=10
 
 for i in range(hanyszor):
     print('0',end='')
